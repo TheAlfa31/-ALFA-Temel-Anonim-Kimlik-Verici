@@ -3,4 +3,5 @@ Kötüye kullanımda kişi kendisi sorumludur!!! HİÇ BİR ŞEKİLDE SORUMLULUK
 
 Nasıl Açılır:
 
+cd -ALFA-Temel-Anonim-Kimlik-Verici
 python [ALFA]Temel Anonim Kimlik Verici.py
